@@ -3,7 +3,9 @@
 ### Project description:
 
 This is a simple web-application that supports authentication, registration and other CRUD operations.
+
 I made this project during an online Java course at Mate Academy. The goal of the project is to consolidate the acquired knowledges in Java Core, JDBC, Java Web and SQL. Competently structure project elements and build interaction between them.
+
 Here you can test, how well I did it ;)
 
 ### Features:
@@ -17,8 +19,10 @@ Here you can test, how well I did it ;)
 ### Project Overview:
 
 First register by adding a driver to DB or authenticate if you are already registered.
+
 Authentication takes place by entering a login and password. The password does not have strict requirements and can be any.
 After successful authentication, the user as a driver goes to the main page of the application. It contains a list of links for performing CRUD operations on cars, car's manufacturer and drivers.
+
 The user can leave the application by clicking "Logout".
 
 ### Technologies used:
