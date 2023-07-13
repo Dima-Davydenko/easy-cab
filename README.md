@@ -6,8 +6,6 @@ This is a simple web-application that supports authentication, registration and 
 
 I made this project during an online Java course at Mate Academy. The goal of the project is to consolidate the acquired knowledges in Java Core, JDBC, Java Web and SQL. Competently structure project elements and build interaction between them.
 
-Here you can test, how well I did it ;)
-
 ### Features:
 * registration like a driver;
 * authentication like a driver;
@@ -46,6 +44,3 @@ The user can leave the application by clicking "Logout".
 4. Enter all necessary information in the util/ConnectionUtil class;
 5. Configure webdriver  Tomcat;
 6. Run the App in your IDE;
-
-You can also test the App here:
-https://taxi-service-hw.herokuapp.com/login
