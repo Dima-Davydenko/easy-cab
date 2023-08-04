@@ -1,4 +1,4 @@
-﻿# simply-taxi-service
+﻿# EasyCab
 
 ### Project description:
 
